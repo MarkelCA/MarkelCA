@@ -60,5 +60,5 @@
 ---
 
 <div align='center'>
-Credits on the readme: <a href='https://github.com/aindrila2412'>aindrila2412</a>
+Inspired by the readme of: <a href='https://github.com/aindrila2412'>aindrila2412</a>
 </div>
