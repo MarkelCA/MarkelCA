@@ -4,7 +4,6 @@
   
   ![coding](https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif)
    ### About Me:
-<hr>
 </div>
 
 - 🎂 I'm 20 years old.
