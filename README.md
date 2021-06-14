@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align = "center"> 
+
+  ### Hi there 👋
+![coding](https://user-images.githubusercontent.com/76633510/121884082-cac5d400-cd12-11eb-9511-f790b2fe1787.gif)
+
+  ### About Me: </div>
 
 <!--
 **MarkelCA/MarkelCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
