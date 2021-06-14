@@ -8,17 +8,17 @@
 
 - 🎂 I'm 20 years old.
 
-- 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**
+- 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**.
 
-- 📚 **I’m currently studying** Certificate of Higher Education on **Mobile Development Application**
+- 📚 **I’m currently studying** Certificate of Higher Education on **Mobile Development Application**.
 
-- ⚛️ I’m currently learning React
+- ⚛️ I’m currently learning React.
 
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
-- 💡 I'm always learning new things 
+- 💡 I'm always learning new things.
 
-- 🎵 In my free time I love playing music, reading and hanging out with my friends
+- 🎵 In my free time I love playing music, reading and hanging out with my friends.
   
   <div align = "center"> 
   
