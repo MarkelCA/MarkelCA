@@ -15,7 +15,7 @@
 
 - ⚛️ I’m currently learning React
 
-- ✨ I'm passionate, creative, enthusiastic, dedicated open minded and I love to work with others.
+- ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
 - 💡 I'm always learning new things 
 
@@ -49,8 +49,13 @@
    <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 
+</div>
 
-
+<div align='center'>
+ <h3> Statistics and Languages:</h3>
+  
+![Markel's GitHub stats](https://github-readme-stats.vercel.app/api?username=markelca&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markelca&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
 </div>
 
 ---
