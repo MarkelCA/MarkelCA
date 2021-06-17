@@ -20,6 +20,12 @@
 
 - 🎵 In my free time I love playing music, reading and hanging out with my friends.
   
+<br>
+
+> *Quality means doing it right even when no one is looking - Henry Ford.*
+
+<br>
+
   <div align = "center"> 
   
   ### My skills:
@@ -56,6 +62,8 @@
 ![Markel's GitHub stats](https://github-readme-stats.vercel.app/api?username=markelca&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markelca&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
 </div>
+
+
 
 ---
 
