@@ -10,7 +10,7 @@
 
 - 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**.
 
-- 📚 **I’m currently studying** Certificate of Higher Education on **Mobile Development Application**.
+- 📚 Soon **I will be studying** Certificate of Higher Education on **Mobile Development Application**.
 
 - ⚛️ I’m currently learning React and MongoDB 🍂
 
