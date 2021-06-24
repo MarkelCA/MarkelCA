@@ -6,13 +6,13 @@
    ### About Me:
 </div>
 
-- 🎂 I'm 20 years old.
+- 🎂 I'm 20 years old . 
 
 - 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**.
 
 - 📚 **I’m currently studying** Certificate of Higher Education on **Mobile Development Application**.
 
-- ⚛️ I’m currently learning React.
+- ⚛️ I’m currently learning React and MongoDB 🍂
 
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
@@ -38,6 +38,7 @@
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+   <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    
    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
