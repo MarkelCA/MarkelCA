@@ -10,9 +10,11 @@
 
 - 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**.
 
+- 👨🏻‍💻 I'm currently working for [Bikuma Global Services](https://www.bikuma.com/) as Backend Developer specialized in Drupal. 💧
+
 - 📚 Soon **I will be studying** Certificate of Higher Education on **Mobile Development Application**.
 
-- ⚛️ I’m currently learning React and MongoDB 🍂
+- ⚛️ I’m currently learning React and MongoDB. 🍂
 
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
