@@ -14,7 +14,7 @@
 
 - 📚 Soon **I will be studying** Certificate of Higher Education on **Mobile Development Application**.
 
-- ⚛️ I’m currently learning React and DevOps. ⚙️
+- ⚛️ I’m currently learning React.
 
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
