@@ -6,13 +6,13 @@
    ### About Me:
 </div>
 
-- 🎂 I'm 20 years old . 
+- 🎂 I'm 21 years old . 
 
 - 🎓 **I’ve studied** a Certificate of Higher Education on **Web Development Application**.
 
-- 👨🏻‍💻 I'm currently working for [Bikuma Global Services](https://www.bikuma.com/) as Backend Developer specialized in Drupal. 💧
+- 👨🏻‍💻 I'm currently working for [Bikuma Global Services](https://www.bikuma.com/) as Backend Developer specialized in Wordpress and Drupal.
 
-- 📚 Soon **I will be studying** Certificate of Higher Education on **Mobile Development Application**.
+- 📚 **I'm stydying** Certificate of Higher Education on **Mobile Development Application**.
 
 - ⚛️ I’m currently learning React.
 
