@@ -83,7 +83,7 @@
 ---
   
   <div align="center">
-  <h3>Contact with me:</h3>
+  <h3>Contact me:</h3>
   <a href="https://www.linkedin.com/in/markel-cuesta/">
     <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Markel linkdin profile" height="30" width="30">
   </a>
