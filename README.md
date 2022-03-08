@@ -14,7 +14,7 @@
 
 - 📚 **I'm stydying** Certificate of Higher Education on **Multiplatformm Application Development**.
 
-- λ I’m currently learning Haskell.
+- ⚛️ I’m currently learning GraphQL + Typescript.
 
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
 
