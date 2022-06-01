@@ -30,9 +30,8 @@
 
   <div align = "center"> 
   
-  ### My skills:
+   ### My skills:
    
-
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img alt="Drupal" src="https://img.shields.io/badge/Drupal-blue.svg?style=for-the-badge&logo=drupal&logoColor=white">
    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-violet.svg?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -41,17 +40,14 @@
    <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+   <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
    <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+
    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  
-   
-   
-   
-  
-   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
   
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -62,6 +58,10 @@
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> 
+   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+   <img alt="Gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
+
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -77,7 +77,7 @@
  <h3> Statistics and Languages:</h3>
   
 ![Markel's GitHub stats](https://github-readme-stats.vercel.app/api?username=markelca&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markelca&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markelca&layout=compact&&theme=radical)
 </div>
 
 ---
@@ -85,10 +85,10 @@
   <div align="center">
   <h3>Contact me:</h3>
   <a href="https://www.linkedin.com/in/markel-cuesta/">
-    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Markel linkdin profile" height="30" width="30">
+    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Markel's Linkedin profile" height="30" width="30">
   </a>
    <a href="mailto:cuestaarribas.markel@gmail.com">
     <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
-    alt=“Aindrila twitter profile" height="30" width="30" hspace="20">
+    alt=“Markel's mail" height="30" width="30" hspace="20">
   </a>     
 </div>
