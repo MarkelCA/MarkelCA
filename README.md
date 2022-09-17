@@ -6,18 +6,18 @@
    ### About Me:
 </div>
 
-- 🎂 I'm 21 years old . 
+- 🎂 I'm 22 years old . 
 
 - 🎓 **I’ve studied** a Certificate of Higher Education on **Web Application Development**.
 
-- 💧  I'm currently working for [Bikuma Global Services](https://www.bikuma.com/) as Backend Developer specialized in Wordpress and Drupal.
+- 📚 **I've studied** Certificate of Higher Education on **Multiplatformm Application Development**.
 
-- 📚 **I'm stydying** Certificate of Higher Education on **Multiplatformm Application Development**.
+- 🦉  I'm currently working for [Smowltech](https://smowl.net/es/) as Fullstack Developer specialized in backend with PHP and Python.
 
-- ⚛️ I’m currently learning GraphQL + Typescript.
+- 🏗️ I’m currently learning Sofware Architecture and Go.
 
-- ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work with others.
-
+- ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work in team.
+ in
 - 💡 I'm always learning new things.
 
 - 🎵 In my free time I love playing music, reading and hanging out with my friends.
@@ -71,6 +71,9 @@
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+
 </div>
 
 <div align='center'>
@@ -84,11 +87,19 @@
   
   <div align="center">
   <h3>Contact me:</h3>
-  <a href="https://www.linkedin.com/in/markel-cuesta/">
-    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=“Markel's Linkedin profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/markel-cuesta/"
+  style="text-decoration:none">
+    <img align="center" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Markel's Linkedin profile" height="30" width="30">
   </a>
-   <a href="mailto:cuestaarribas.markel@gmail.com">
-    <img align="center" width="26px" img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
-    alt=“Markel's mail" height="30" width="30" hspace="20">
-  </a>     
+   <a href="mailto:cuestaarribas.markel@gmail.com"
+   style="text-decoration:none">
+    <img align="center" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" 
+    alt="Markel's mail" height="30" width="30" hspace="20">
+  </a>
+  <a href="https://medium.com/@markelca"
+  style="text-decoration:none">
+    <img align="center" src="https://user-images.githubusercontent.com/76633510/190863011-dd5b6187-6cee-4264-b9e0-cbf69ac2782f.png" 
+    alt="Markel's Blog" height="30" width="30" hspace="20">
+  </a> 
+
 </div>
