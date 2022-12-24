@@ -14,8 +14,6 @@
 
 - 🦉  I'm currently working for [Smowltech](https://smowl.net/es/) as Fullstack Developer specialized in backend with PHP and Python.
 
-- 🏗️ I’m currently learning Sofware Architecture and Go.
-
 - ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work in team.
  in
 - 💡 I'm always learning new things.
