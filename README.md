@@ -12,10 +12,10 @@
 
 - 📚 **I've studied** Certificate of Higher Education on **Multiplatformm Application Development**.
 
-- 🦉  I'm currently working for [Smowltech](https://smowl.net/es/) as Fullstack Developer specialized in backend with PHP and Python.
+- 🦉  I'm currently working for [Smowltech](https://smowl.net/es/) as Fullstack Developer specialized in backend with PHP, Python and AWS.
 
-- ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love to work in team.
- in
+- ✨ I'm passionate, creative, enthusiastic, dedicated, open minded and I love teamworking!
+
 - 💡 I'm always learning new things.
 
 - 🎵 In my free time I love playing music, reading and hanging out with my friends.
@@ -51,7 +51,7 @@
    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+   <img alt="Go" src="https://img.shields.io/badge/GO-5C2D91?style=for-the-badge&logo=go&logoColor=white">
   
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white">
