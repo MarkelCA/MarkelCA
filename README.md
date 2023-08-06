@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hi there! 👋
 
 I'm Markel. I love software, learning, and sharing. 
 
